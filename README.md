@@ -1,3 +1,3 @@
 # hello-world
 First repository
-I like hiking
+# I like hiking
